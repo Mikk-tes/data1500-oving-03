@@ -2,6 +2,8 @@
 
 Skriv dine svar på refleksjonsspørsmålene fra hver oppgave her.
 
+Begynte på oppgaven.
+
 ---
 
 ## Oppgave 1: Docker-oppsett og PostgreSQL-tilkobling
